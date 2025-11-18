@@ -254,5 +254,4 @@ MIT License - Feel free to use and modify
 
 Untuk pertanyaan dan support:
 - Create issue di GitHub
-- Email: support@attendance-system.com
-- Documentation: [Wiki](link-to-wiki)
+- Email: brillianhernandez@gmail.com
